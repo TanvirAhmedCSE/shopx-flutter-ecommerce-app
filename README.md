@@ -26,7 +26,7 @@
 - **Authentication** — Email/password sign up & sign in via Firebase Auth, email verification flow, password strength indicator, session persistence across restarts
 - **Profile Setup** — Display name + avatar picker (25 avatars) on first launch; profile synced to Firestore and cached locally with Hive
 - **Home Screen** — Category filter tabs (All, Electronics, Jewellery, Men's Clothing, Women's Clothing), product grid with live wishlist & cart status badges, time-aware greeting
-- **Search** — Instant product search with result count and cart badge display with filter searches
+- **Search** — Instant product search with result count and cart badge display with filtered searches
 - **Product Detail** — Full-page view with hero image, star rating, review count, description, and dynamic add-to-cart button state
 - **Wishlist** — Save and manage favourite products; count badge updates in real-time; persisted locally with Hive
 - **Cart** — Quantity increment/decrement/delete, real-time total calculation, item count badge; persisted locally with Hive
