@@ -58,8 +58,8 @@
     <td align="center"><img src="app screenshots/6a.jpg" width="220"/><br/><b>Showing Promo Banner after Sign Up</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="app screenshots/6aa.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/6b.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/6c.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/7.jpg" width="220"/></td>
   </tr>
   <tr>
@@ -94,6 +94,8 @@
   </tr>
   <tr>
     <td align="center"><img src="app screenshots/22.jpg" width="220"/></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
 
