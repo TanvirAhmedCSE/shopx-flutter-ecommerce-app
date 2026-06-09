@@ -55,7 +55,7 @@
   <tr>
     <td align="center"><img src="app screenshots/4.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/5.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/6a.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/6a.jpg" width="220"/><br/><b>Showing Promo Banner after Sign Up</b></td>
   </tr>
   <tr>
     <td align="center"><img src="app screenshots/6b.jpg" width="220"/></td>
