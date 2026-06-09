@@ -94,8 +94,6 @@
   </tr>
   <tr>
     <td align="center"><img src="app screenshots/22.jpg" width="220"/></td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
 
