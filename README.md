@@ -58,39 +58,44 @@
     <td align="center"><img src="app screenshots/6a.jpg" width="220"/><br/><b>Showing Promo Banner after Sign Up</b></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/6aa.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/6b.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/7.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/7a.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/7a.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/8.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/8a.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/8b.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/8b.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/8c.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/9.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/10.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/10.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/11.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/12.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/13.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/13.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/14.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/15.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/16.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/16.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/17.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/18.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/19.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/19.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/20.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/21.jpg" width="220"/></td>
+  </tr>
+  <tr>
     <td align="center"><img src="app screenshots/22.jpg" width="220"/></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
 
