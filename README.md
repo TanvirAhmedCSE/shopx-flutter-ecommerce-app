@@ -46,58 +46,106 @@
 
 ## Screenshots
 
+### Sign Up
 <table>
   <tr>
-    <td align="center"><img src="app screenshots/1.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/2.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/3.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/1.jpg" width="220"/><br/><sub>Create Account</sub></td>
+    <td align="center"><img src="app screenshots/2.jpg" width="220"/><br/><sub>Verify Email</sub></td>
+    <td align="center"><img src="app screenshots/3.jpg" width="220"/><br/><sub>You're All Set</sub></td>
+  </tr>
+</table>
+
+### Profile Setup
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/4.jpg" width="220"/><br/><sub>Choose Avatar</sub></td>
+    <td align="center"><img src="app screenshots/5.jpg" width="220"/><br/><sub>Set Display Name</sub></td>
+  </tr>
+</table>
+
+### Home
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/6a.jpg" width="220"/><br/><sub>Promo Banner (after Sign Up)</sub></td>
+    <td align="center"><img src="app screenshots/6b.jpg" width="220"/><br/><sub>Best Deals / Categories</sub></td>
+    <td align="center"><img src="app screenshots/6c.jpg" width="220"/><br/><sub>Fresh Picks</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="app screenshots/4.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/5.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/6a.jpg" width="220"/><br/><b>Showing Promo Banner after Sign Up</b></td>
+    <td align="center"><img src="app screenshots/7.jpg" width="220"/><br/><sub>Home (Deals View)</sub></td>
+    <td align="center"><img src="app screenshots/22.jpg" width="220"/><br/><sub>Home</sub></td>
+  </tr>
+</table>
+
+### Wishlist
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/7a.jpg" width="220"/><br/><sub>Wishlist</sub></td>
+  </tr>
+</table>
+
+### Search & Filter
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/8.jpg" width="220"/><br/><sub>Search Results</sub></td>
+    <td align="center"><img src="app screenshots/8b.jpg" width="220"/><br/><sub>Filter Products</sub></td>
+    <td align="center"><img src="app screenshots/8c.jpg" width="220"/><br/><sub>Filtered Results</sub></td>
+  </tr>
+</table>
+
+### Product Details
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/8a.jpg" width="220"/><br/><sub>Product Details</sub></td>
+  </tr>
+</table>
+
+### 🛒 Cart & Checkout
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/9.jpg" width="220"/><br/><sub>My Cart</sub></td>
+    <td align="center"><img src="app screenshots/10.jpg" width="220"/><br/><sub>Checkout - Address</sub></td>
+    <td align="center"><img src="app screenshots/11.jpg" width="220"/><br/><sub>Checkout - Payment</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="app screenshots/6b.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/6c.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/7.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/12.jpg" width="220"/><br/><sub>Order Placed</sub></td>
   </tr>
+</table>
+
+### Orders
+<table>
   <tr>
-    <td align="center"><img src="app screenshots/7a.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/8.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/8a.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/13.jpg" width="220"/><br/><sub>My Orders</sub></td>
+    <td align="center"><img src="app screenshots/14.jpg" width="220"/><br/><sub>Order Details</sub></td>
+    <td align="center"><img src="app screenshots/15.jpg" width="220"/><br/><sub>Order Details (Full)</sub></td>
   </tr>
+</table>
+
+### Support Chat
+<table>
   <tr>
-    <td align="center"><img src="app screenshots/8b.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/8c.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/9.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/16.jpg" width="220"/><br/><sub>Support Chat</sub></td>
   </tr>
+</table>
+
+### Account & Profile
+<table>
   <tr>
-    <td align="center"><img src="app screenshots/10.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/11.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/12.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/17.jpg" width="220"/><br/><sub>My Account</sub></td>
+    <td align="center"><img src="app screenshots/18.jpg" width="220"/><br/><sub>Edit Profile</sub></td>
+    <td align="center"><img src="app screenshots/19.jpg" width="220"/><br/><sub>My Account</sub></td>
   </tr>
+</table>
+
+### Sign In / Sign Out
+<table>
   <tr>
-    <td align="center"><img src="app screenshots/13.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/14.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/15.jpg" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="app screenshots/16.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/17.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/18.jpg" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="app screenshots/19.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/20.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/21.jpg" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="app screenshots/22.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/20.jpg" width="220"/><br/><sub>Sign Out Confirmation</sub></td>
+    <td align="center"><img src="app screenshots/21.jpg" width="220"/><br/><sub>Sign In</sub></td>
   </tr>
 </table>
 
 ---
+
 
 ## Tech Stack
 
