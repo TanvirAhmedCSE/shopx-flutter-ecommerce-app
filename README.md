@@ -67,26 +67,25 @@
 <table>
   <tr>
     <td align="center"><img src="app screenshots/6a.jpg" width="220"/><br/><sub><b>Promo Banner (after Sign Up)</b></sub></td>
-    <td align="center"><img src="app screenshots/6b.jpg" width="220"/><br/><sub><b>Best Deals / Categories</b></sub></td>
-    <td align="center"><img src="app screenshots/6c.jpg" width="220"/><br/><sub><b>Fresh Picks</b></sub></td>
+    <td align="center"><img src="app screenshots/6b.jpg" width="220"/><br/><sub><b>Home</b></sub></td>
+    <td align="center"><img src="app screenshots/6c.jpg" width="220"/><br/><sub><b>Best Deals</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="app screenshots/7.jpg" width="220"/><br/><sub><b>Home (Deals View)</b></sub></td>
-    <td align="center"><img src="app screenshots/22.jpg" width="220"/><br/><sub><b>Home</b></sub></td>
+    <td align="center"><img src="app screenshots/7.jpg" width="220"/><br/><sub><b>Categories</b></sub></td>
   </tr>
 </table>
 
 ### Wishlist
 <table>
   <tr>
-    <td align="center"><img src="app screenshots/7a.jpg" width="220"/><br/><sub><b>Wishlist</b></sub></td>
+    <td align="center"><img src="app screenshots/8.jpg" width="220"/><br/><sub><b>Wishlist</b></sub></td>
   </tr>
 </table>
 
 ### Search & Filter
 <table>
   <tr>
-    <td align="center"><img src="app screenshots/8.jpg" width="220"/><br/><sub><b>Search Results</b></sub></td>
+    <td align="center"><img src="app screenshots/8a.jpg" width="220"/><br/><sub><b>Search Results</b></sub></td>
     <td align="center"><img src="app screenshots/8b.jpg" width="220"/><br/><sub><b>Filter Products</b></sub></td>
     <td align="center"><img src="app screenshots/8c.jpg" width="220"/><br/><sub><b>Filtered Results</b></sub></td>
   </tr>
@@ -95,11 +94,11 @@
 ### Product Details
 <table>
   <tr>
-    <td align="center"><img src="app screenshots/8a.jpg" width="220"/><br/><sub><b>Product Details</b></sub></td>
+    <td align="center"><img src="app screenshots/7a.jpg" width="220"/><br/><sub><b>Product Details</b></sub></td>
   </tr>
 </table>
 
-### 🛒 Cart & Checkout
+### Cart & Checkout
 <table>
   <tr>
     <td align="center"><img src="app screenshots/9.jpg" width="220"/><br/><sub><b>My Cart</b></sub></td>
