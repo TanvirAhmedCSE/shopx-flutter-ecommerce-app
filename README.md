@@ -140,6 +140,7 @@
   <tr>
     <td align="center"><img src="app screenshots/20.jpg" width="220"/><br/><sub><b>Sign Out Confirmation</b></sub></td>
     <td align="center"><img src="app screenshots/21.jpg" width="220"/><br/><sub><b>Sign In</b></sub></td>
+    <td align="center"><img src="app screenshots/22.jpg" width="220"/><br/><sub><b>Home</b></sub></td>
   </tr>
 </table>
 
