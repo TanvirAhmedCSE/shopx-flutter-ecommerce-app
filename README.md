@@ -135,7 +135,7 @@
   </tr>
 </table>
 
-### Sign In / Sign Out
+### Sign Out / Sign In
 <table>
   <tr>
     <td align="center"><img src="app screenshots/20.jpg" width="220"/><br/><sub><b>Sign Out Confirmation</b></sub></td>
